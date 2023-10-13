@@ -1,8 +1,8 @@
-- 👽 @ysl_ruzly
-- 👨‍🚀 Hello World...
-- 💩 currently learning programming...
-- 👾 Freshman - BS Computer Science
-- 🚀 Memento mori
+-      👽 ruzly
+-     👾 Freshman - BS Computer Science
+-      Memento mori
+  
+  
   
 
 <!---
