@@ -1,0 +1,3 @@
+-      👽 ruzly
+-     👾 Freshman - BS Computer Science
+-      Memento mori
