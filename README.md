@@ -1,16 +1,30 @@
-## Hi there 👋
+# John Ruzly Macatula
 
-<!--
-**yslruzly/yslruzly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Software Engineer · 4th Yr CS @ University of the East Manila**
 
-Here are some ideas to get you started:
+Building AI-powered web and mobile apps. Working on RAG systems, agentic
+research tools, and full-stack products. Based in Manila.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Building
+
+- **NoteChat** — full-stack RAG study assistant with an LLM-as-judge eval pipeline and live dashboard · Next.js / Supabase pgvector / Jina AI / Groq · [live](https://note-chat-sandy.vercel.app)
+- **ResearchAI** — agentic web research tool with Jina search/reader and Groq synthesis · Next.js 14 App Router
+
+## Projects
+
+**[NoteChat](https://note-chat-sandy.vercel.app)** — Upload notes, ask questions, get grounded answers. RAG over Supabase pgvector with Jina embeddings and Groq (Llama 3.3 70B). Includes an eval pipeline that scores answer quality.
+
+**ResearchAI** — Give it a question, it searches the web, reads sources, and synthesizes an answer. Jina reader for retrieval, Groq for synthesis, custom dark paper/ink theme.
+
+**PipWise** — Forex education site with interactive charts, calculators, and curriculum modules. Next.js, dynamic App Router routes.
+
+**AniSense** — Crop market monitoring app for farmers in Nueva Ecija. React + TypeScript + Vite + Capacitor (Android), Filipino/English i18n, Supabase auth.
+
+## Stack
+
+TypeScript · JavaScript · Python · Next.js · React · React Native · Capacitor · Tailwind CSS · Supabase · PostgreSQL · pgvector · Groq · Jina AI · RAG · Agentic Workflows · Vercel
+
+## Connect
+
+- Portfolio: [https://macatula-ruzly.vercel.app]
+- GitHub: [@yslruzly](https://github.com/yslruzly)
