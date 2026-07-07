@@ -1,18 +1,15 @@
 # John Ruzly Macatula
 
-**Aspiring Software Engineer · 4th Yr CS @ University of the East Manila**
+**Aspiring Software Engineer · CS @ University of the East Manila**
 
 Building AI-powered web and mobile apps. Working on RAG systems, agentic
-research tools, and full-stack products. Based in Manila.
+research tools, and full-stack products. Based in Manila. 
 
-## What I'm Building
-
-- **NoteChat** — full-stack RAG study assistant with an LLM-as-judge eval pipeline and live dashboard · Next.js / Supabase pgvector / Jina AI / Groq · [live](https://note-chat-sandy.vercel.app)
-- **ResearchAI** — agentic web research tool with Jina search/reader and Groq synthesis · Next.js 14 App Router
+macatula-ruzly.vercel.app
 
 ## Projects
 
-**[NoteChat](https://note-chat-sandy.vercel.app)** — Upload notes, ask questions, get grounded answers. RAG over Supabase pgvector with Jina embeddings and Groq (Llama 3.3 70B). Includes an eval pipeline that scores answer quality.
+**NoteChat** — full-stack RAG study assistant with an LLM-as-judge eval pipeline and live dashboard · Next.js / Supabase pgvector / Jina AI / Groq · [live](https://note-chat-sandy.vercel.app)
 
 **ResearchAI** — Give it a question, it searches the web, reads sources, and synthesizes an answer. Jina reader for retrieval, Groq for synthesis, custom dark paper/ink theme.
 
@@ -28,3 +25,4 @@ TypeScript · JavaScript · Python · Next.js · React · React Native · Capaci
 
 - Portfolio: [https://macatula-ruzly.vercel.app]
 - GitHub: [@yslruzly](https://github.com/yslruzly)
+- Email: [macatulajohnruzly@gmail.com]
