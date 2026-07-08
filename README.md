@@ -5,7 +5,7 @@
 Building AI-powered web and mobile apps. Working on RAG systems, agentic
 research tools, and full-stack products. Based in Manila. 
 
-[https://macatula-ruzly.vercel.app]
+https://macatula-ruzly.vercel.app
 
 ## Projects
 
