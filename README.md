@@ -23,6 +23,6 @@ TypeScript · JavaScript · Python · Next.js · React · React Native · Capaci
 
 ## Connect
 
-- Portfolio: [https://macatula-ruzly.vercel.app]
+- Portfolio: https://macatula-ruzly.vercel.app
 - GitHub: [@yslruzly](https://github.com/yslruzly)
-- Email: [macatulajohnruzly@gmail.com]
+- Email: macatulajohnruzly@gmail.com
