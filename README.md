@@ -9,7 +9,7 @@ research tools, and full-stack products. Based in Manila.
 
 ## Projects
 
-**NoteChat** — full-stack RAG study assistant with an LLM-as-judge eval pipeline and live dashboard · Next.js / Supabase pgvector / Jina AI / Groq · [live](https://note-chat-sandy.vercel.app)
+**NoteChat** — full-stack RAG study assistant with an LLM-as-judge eval pipeline and live dashboard · Next.js / Supabase pgvector / Jina AI / Groq 
 
 **ResearchAI** — Give it a question, it searches the web, reads sources, and synthesizes an answer. Jina reader for retrieval, Groq for synthesis, custom dark paper/ink theme.
 
