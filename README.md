@@ -3,13 +3,25 @@
 **Aspiring AI & Software Engineer · CS @ University of the East Manila**
 
 Building AI-powered web and mobile apps. Working on RAG systems, agentic
-research tools, and full-stack products. Based in Manila. 
+research tools, and full-stack projects. Based in Manila PH. 
 
 https://macatula-ruzly.vercel.app
 
-## Stack
+## Tech Stack
 
-TypeScript · JavaScript · Python · Next.js · React · React Native · Capacitor · Tailwind CSS · Supabase · PostgreSQL · pgvector · Groq · Jina AI · RAG · Agentic Workflows · Vercel
+**Languages:** TypeScript · JavaScript · Python
+
+**Frontend:** Next.js · React · Tailwind CSS · tRPC
+
+**Mobile:** React Native · Capacitor
+
+**Backend:** Node.js · Supabase · Firebase · PostgreSQL · pgvector · Upstash Redis
+
+**AI Engineering:** RAG pipelines · Agentic workflows · LLM evals · Groq · Jina AI · n8n
+
+**DevOps & Tooling:** Vercel · Docker · Git
+
+**Design:** Figma · Canva · Photoshop
 
 ## Connect
 
