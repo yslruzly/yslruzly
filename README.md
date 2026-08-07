@@ -7,22 +7,6 @@ research tools, and full-stack projects. Based in Manila PH.
 
 https://macatula-ruzly.vercel.app
 
-## Tech Stack
-
-**Languages:** TypeScript · JavaScript · Python
-
-**Frontend:** Next.js · React · Tailwind CSS · tRPC
-
-**Mobile:** React Native · Capacitor
-
-**Backend:** Node.js · Supabase · Firebase · PostgreSQL · pgvector · Upstash Redis
-
-**AI Engineering:** RAG pipelines · Agentic workflows · LLM evals · Groq · Jina AI · n8n
-
-**DevOps & Tooling:** Vercel · Docker · Git
-
-**Design:** Figma · Canva · Photoshop
-
 ## Connect
 
 - Portfolio: https://macatula-ruzly.vercel.app
