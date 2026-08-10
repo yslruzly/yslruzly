@@ -4,10 +4,10 @@
 
 Exploring new technologies in AI, Software Development, and Full stack engineering and Design.
 
-https://macatula-ruzly.vercel.app
+https://ruzlymacatula.vercel.app
 
 ## Connect
 
-- Portfolio: https://macatula-ruzly.vercel.app
+- Portfolio: https://ruzlymacatula.vercel.app
 - GitHub: [@yslruzly](https://github.com/yslruzly)
 - Email: macatulajohnruzly@gmail.com
