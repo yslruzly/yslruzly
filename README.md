@@ -1,13 +1,13 @@
-# John Ruzly Macatula
+# Ruzly Macatula
 
 CS @ University of the East Manila 
 
 Exploring AI, Web and Mobile Development, and Full stack engineering. Passionate about clean,intuitive design.
 
-https://ruzlymacatula.vercel.app
+https://ruzlymacatula.me
 
 ## Connect
 
-- Portfolio: https://ruzlymacatula.vercel.app
+- Portfolio: https://ruzlymacatula.me
 - GitHub: [@yslruzly](https://github.com/yslruzly)
 - Email: macatulajohnruzly@gmail.com
